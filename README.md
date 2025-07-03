@@ -1,6 +1,6 @@
 # 📚 Library Management System
 
-A PHP and MySQL-based web application for managing a library's resources and user interactions, designed for both administrators and users.
+A PHP, Bootstrap and MySQL-based web application for managing a library's resources and user interactions, designed for both administrators and users.
 
 ## 🔑 Features
 
@@ -43,7 +43,7 @@ A PHP and MySQL-based web application for managing a library's resources and use
 ---
 
 ## 🛠 Tech Stack
-- **Frontend**: HTML, CSS
+- **Frontend**: Bootsrap, HTML, CSS
 - **Backend**: PHP (Procedural)
 - **Database**: MySQL (via PDO)
 - **Environment**: XAMPP (Apache + MySQL)
